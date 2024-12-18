@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co.com/Yt8R2JQ/social-media-banner.png">
 <h1 align="center">Hi 👋, I'm Samiuzzaman Chowdhury</h1>
-<h3 align="center">Front End Web Developer | Passionate Coder |Programming Enthusiast"</h3>
+<h3 align="center">Front End Web Developer | Passionate Coder |Programming Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiuzaman&label=Profile%20views&color=0e75b6&style=flat" alt="samiuzaman" /> </p>
 
