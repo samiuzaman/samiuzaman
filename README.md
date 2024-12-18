@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [samiuzzaman.com](samiuzzaman.com)
 
-- 💬 Ask me about **Samiuzzaman Chowdhury is a passionate Full Stack Web Developer advancing his skills through Programming Hero. He works on projects like Gadget Heaven and BPL Dream 11, aiming to become a top developer by 2025, with a focus on innovation and impactful solutions.**
+- 💬 About : I'm  passionate Full Stack Web Developer advancing his skills through Programming Hero. He works on projects like Gadget Heaven and BPL Dream 11, aiming to become a top developer by 2025, with a focus on innovation and impactful solutions.**
 
 - 📫 How to reach me **chowdhurysamiuzzaman@gmail.com**
 
