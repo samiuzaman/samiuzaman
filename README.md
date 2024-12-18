@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chowdhurysamiuzzaman@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/171VpMbVOULbXzn1mOjIXE8zBfx4zUuad/view?pli=1](https://drive.google.com/file/d/171VpMbVOULbXzn1mOjIXE8zBfx4zUuad/view?pli=1)
+- 📄 My experiences [https://drive.google.com/file/d/171VpMbVOULbXzn1mOjIXE8zBfx4zUuad/view?pli=1](https://drive.google.com/file/d/171VpMbVOULbXzn1mOjIXE8zBfx4zUuad/view?pli=1)
 
 - ⚡ Fun fact **loves solving coding challenges**
 
