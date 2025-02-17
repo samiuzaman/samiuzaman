@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Samiuzzaman Chowdhury
 #### Front End Web Developer | Passionate Coder |Programming Enthusiast
-![Front End Web Developer | Passionate Coder |Programming Enthusiast]
+<img src="https://komarev.com/ghpvc/?username=samiuzaman&label=Profile%20views&color=0e75b6&style=flat"
 
 I'm  passionate Full Stack Web Developer advancing his skills through Programming Hero. He works on projects like Gadget Heaven and BPL Dream 11, aiming to become a top developer by 2025, with a focus on innovation and impactful solutions.
 
