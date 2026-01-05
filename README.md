@@ -17,9 +17,4 @@ Skills:  HTML / CSS/ JavaScript / REACT / Node JS/ Express JS/ MongoDB
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiuzaman)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiuzaman&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/samiuzaman/contributions?format=svg&private=false)  
 
